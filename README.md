@@ -1,1 +1,1 @@
-# ML-EDA-on-Student-Perofrmance
+# Exploratory Data analysis on a data of Student Performance
