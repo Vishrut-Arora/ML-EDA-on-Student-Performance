@@ -1,1 +1,1 @@
-# Exploratory Data analysis on a data of Student Performance
+ Exploratory Data analysis on a data set of Student Performance
